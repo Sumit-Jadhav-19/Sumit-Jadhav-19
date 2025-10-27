@@ -14,3 +14,5 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=sumit-jadhav-19&color=blue)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sumit-jadhav-19&show_icons=true&theme=tokyonight)
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumit-jadhav-19&show_icons=true&locale=en&layout=compact" alt="decoder-aditya" />
