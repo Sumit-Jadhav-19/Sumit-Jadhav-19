@@ -11,3 +11,6 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/sumitjadhav)
 - 📧 Email: yourname@email.com
 - 🌐 [Portfolio](https://yourwebsite.com)
+
+![Profile views](https://komarev.com/ghpvc/?username=sumit-jadhav-19&color=blue)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sumit-jadhav-19&show_icons=true&theme=tokyonight)
