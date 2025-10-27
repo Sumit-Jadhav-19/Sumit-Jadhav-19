@@ -4,7 +4,6 @@
   <h1>Hi👋, I'm Sumit Jadhav</h1>
   <h3>💻 Software Engineer | .NET Developer | Passionate about Scalable Web Applications</h3>
 </div>
-<h1></h1>
 
 ### 🚀 About Me
 Results-driven Software Engineer with 3+ years of experience in **.NET technologies** including **C#, ASP.NET, ASP.NET Core, MVC, WebForms**, and **modern frontend frameworks** like **HTML, CSS, JavaScript, jQuery, and AngularJS**.  
